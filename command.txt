@@ -11,3 +11,5 @@ git status
 git diff
 
 mkdir
+Git tracks changes.
+123
