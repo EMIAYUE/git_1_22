@@ -7,3 +7,5 @@ git add
 git commit
 git config
 
+git status
+git diff
