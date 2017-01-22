@@ -3,3 +3,4 @@ MMCherry,Cherish
 
 SS:Switching System
 BSS:Base Station Subsystem
+GSM:Global Systems for Mobile Communications
